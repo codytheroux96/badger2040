@@ -16,8 +16,8 @@ var profileErr error
 
 const (
 	DefaultCompany = "TinyGo"
-	DefaultName    = "CONEJO"
-	DefaultTitle   = "Technologist for hire"
+	DefaultName    = "CT"
+	DefaultTitle   = "Software Engineer"
 	DefaultSocial  = "@conejo@social.tinygo.org"
 )
 
